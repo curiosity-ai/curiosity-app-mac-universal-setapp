@@ -1,0 +1,1 @@
+# curiosity-app-mac-arm-setapp
