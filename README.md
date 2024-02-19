@@ -1,1 +1,1 @@
-# curiosity-app-mac-arm-setapp
+# curiosity-app-mac-universal-setapp
